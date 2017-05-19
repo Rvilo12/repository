@@ -6,7 +6,7 @@ marquee
 {
 	color:#FFFF00;
 }
-contenido
+#contenido
 {
 	width: 960px;
 	margin: 0 auto;
@@ -28,7 +28,7 @@ nav ul li
 	color: #ADFF2F;
 	cursor: pointer;	
 }
-textoPr
+#textoPr
 {
 	width: 600px;
 	height: 200px;
