@@ -14,7 +14,7 @@ marquee
 }
 script
 {
-	color:#FFFFFF;
+	color:#FFFF00;
 }
 h1
 {
@@ -33,7 +33,7 @@ nav ul li
 	width: 600px;
 	height: 200px;
 	background-color:#000000;
-	color: #fff;
+	color: #FFFF00;
 	margin: 0 auto;
 	text-align: left;
 	border-radius:20px;
