@@ -12,7 +12,7 @@ marquee
 	margin: 0 auto;
 	text-align:center;
 }
-scipt
+script
 {
 	color:#00FFFF;
 }
@@ -25,7 +25,7 @@ nav ul li
 	display: inline-block;
 	font-weight: bold;
 	margin-right: 20px;
-	color: #00CED1;
+	color: #ADFF2F;
 	cursor: pointer;	
 }
 #textoPr
