@@ -6,7 +6,7 @@ marquee
 {
 	color:#FF0000;
 }
-#contenido
+contenido
 {
 	width: 960px;
 	margin: 0 auto;
@@ -14,7 +14,7 @@ marquee
 }
 script
 {
-	color:#00FFFF;
+	color:#FFFFFF;
 }
 h1
 {
@@ -28,7 +28,7 @@ nav ul li
 	color: #ADFF2F;
 	cursor: pointer;	
 }
-#textoPr
+textoPr
 {
 	width: 600px;
 	height: 200px;
@@ -45,7 +45,7 @@ footer
 	position: relative;
 	font-weight: bold;
 	margin-top: 125px;
-	height: 20	px;
+	height: 20px;
 	padding:50px 0px;
 	border-radius:20px;
 	padding: 20px;	
